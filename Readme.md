@@ -52,24 +52,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
-
-
-
-### Upload Image Mode
-
-
-
-### Camera Capture Mode
-
-
-
-### Real-time Video Mode
-
-
-
----
-
 ## 🚀 Deployment
 
 You can deploy this app for free using:
@@ -77,8 +59,6 @@ You can deploy this app for free using:
 * [**Streamlit Cloud**](https://share.streamlit.io/)
 * [**Hugging Face Spaces**](https://huggingface.co/spaces)
 * **Render / Railway** (for Python web apps)
-
-> Make sure `requirements.txt` includes all necessary dependencies for a smooth deployment.
 
 ---
 
